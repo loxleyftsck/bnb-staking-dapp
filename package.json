@@ -1,0 +1,28 @@
+{
+  "name": "bnb-staking-dapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loxleyftsck/bnb-staking-dapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loxleyftsck/bnb-staking-dapp/issues"
+  },
+  "homepage": "https://github.com/loxleyftsck/bnb-staking-dapp#readme",
+  "devDependencies": {
+    "hardhat": "^3.0.6"
+  },
+  "type": "module",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0",
+    "dotenv": "^17.2.3"
+  }
+}
