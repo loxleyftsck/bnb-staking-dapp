@@ -1,0 +1,34 @@
+All Rights Reserved
+
+Copyright (c) 2025 BNB Staking Protocol
+
+This license applies to:
+- User interface code and designs (/ui directory)
+- Documentation and guides (/docs directory)
+- Brand assets, logos, and visual identity
+- Marketing materials and content
+
+Permission is NOT granted to:
+- Copy, modify, or distribute the licensed content
+- Use the brand name or visual identity
+- Create derivative works
+- Use for commercial purposes
+
+Exception for Personal Use:
+- Users may view and interact with the deployed interface
+- Developers may inspect UI code for security review
+- Auditors may analyze for vulnerability assessment
+
+This restriction exists to:
+1. Prevent phishing attacks using official UI
+2. Protect users from malicious forks
+3. Maintain protocol brand integrity
+4. Enable clear attribution of official deployments
+
+For integration or partnership inquiries, contact: [Specify contact method]
+
+THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+---
+
+This license does NOT apply to smart contract code, which is licensed under MIT (see LICENSE file).
